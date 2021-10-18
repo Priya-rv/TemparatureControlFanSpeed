@@ -1,0 +1,2 @@
+# TemparatureControlFanSpeed
+we have described how to design Temperature Based Fan Speed Control & Monitoring With Arduino and LM35 Temperature Sensor. The microcontroller controls the speed of an electric fan according to the requirement & allows dynamic and faster control and the LCD makes the system user-friendly. Sensed temperature in Celsius Scale and fan speed in percentage are simultaneously displayed on the LCD panel.
